@@ -33,7 +33,44 @@ namespace MonApp
                     Console.WriteLine("Bonne soirée !" + Environment.UserName);
                 }
             }
+           
+            string[] jours = new string[] { "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi", "Dimanche" };
 
+            int i = 0;
+
+            bool trouve = false;
+
+            while (i < jours.Length && !trouve)
+
+            {
+
+                string valeur = jours[i];
+
+                if (valeur == "Jeudi")
+
+                {
+
+                    trouve = true;
+
+                }
+
+                else
+
+                {
+
+                    i++;
+
+                }
+
+            }
+
+            if (!trouve)
+
+                Console.WriteLine("Valeur non trouvée");
+
+            else
+
+                Console.WriteLine("Trouvé à l'indice " + i);
 
         }
 

@@ -5,3 +5,10 @@ C:\Users\Administrateur\source\repos\MonApp\MonApp\obj\Debug\MonApp.csprojResolv
 C:\Users\Administrateur\source\repos\MonApp\MonApp\obj\Debug\MonApp.csproj.CoreCompileInputs.cache
 C:\Users\Administrateur\source\repos\MonApp\MonApp\obj\Debug\MonApp.exe
 C:\Users\Administrateur\source\repos\MonApp\MonApp\obj\Debug\MonApp.pdb
+C:\Users\Administrateur\source\repos\Learning_C-charp\MonApp\MonApp\bin\Debug\MonApp.exe.config
+C:\Users\Administrateur\source\repos\Learning_C-charp\MonApp\MonApp\bin\Debug\MonApp.exe
+C:\Users\Administrateur\source\repos\Learning_C-charp\MonApp\MonApp\bin\Debug\MonApp.pdb
+C:\Users\Administrateur\source\repos\Learning_C-charp\MonApp\MonApp\obj\Debug\MonApp.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\source\repos\Learning_C-charp\MonApp\MonApp\obj\Debug\MonApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\Learning_C-charp\MonApp\MonApp\obj\Debug\MonApp.exe
+C:\Users\Administrateur\source\repos\Learning_C-charp\MonApp\MonApp\obj\Debug\MonApp.pdb
