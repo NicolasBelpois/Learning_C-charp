@@ -1,0 +1,6 @@
+c:\users\administrateur\source\repos\AppDessin\AppDessin\obj\Debug\AppDessin.csproj.CoreCompileInputs.cache
+c:\users\administrateur\source\repos\AppDessin\AppDessin\bin\Debug\AppDessin.exe.config
+c:\users\administrateur\source\repos\AppDessin\AppDessin\bin\Debug\AppDessin.exe
+c:\users\administrateur\source\repos\AppDessin\AppDessin\bin\Debug\AppDessin.pdb
+c:\users\administrateur\source\repos\AppDessin\AppDessin\obj\Debug\AppDessin.exe
+c:\users\administrateur\source\repos\AppDessin\AppDessin\obj\Debug\AppDessin.pdb

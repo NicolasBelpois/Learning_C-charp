@@ -1,0 +1,7 @@
+c:\users\administrateur\source\repos\MovingCar\MovingCar\bin\Debug\MovingCar.exe.config
+c:\users\administrateur\source\repos\MovingCar\MovingCar\bin\Debug\MovingCar.exe
+c:\users\administrateur\source\repos\MovingCar\MovingCar\bin\Debug\MovingCar.pdb
+c:\users\administrateur\source\repos\MovingCar\MovingCar\obj\Debug\MovingCar.csprojResolveAssemblyReference.cache
+c:\users\administrateur\source\repos\MovingCar\MovingCar\obj\Debug\MovingCar.csproj.CoreCompileInputs.cache
+c:\users\administrateur\source\repos\MovingCar\MovingCar\obj\Debug\MovingCar.exe
+c:\users\administrateur\source\repos\MovingCar\MovingCar\obj\Debug\MovingCar.pdb

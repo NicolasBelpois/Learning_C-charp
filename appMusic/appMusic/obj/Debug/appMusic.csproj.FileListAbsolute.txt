@@ -1,0 +1,6 @@
+c:\users\administrateur\source\repos\appMusic\appMusic\bin\Debug\appMusic.exe.config
+c:\users\administrateur\source\repos\appMusic\appMusic\bin\Debug\appMusic.exe
+c:\users\administrateur\source\repos\appMusic\appMusic\bin\Debug\appMusic.pdb
+c:\users\administrateur\source\repos\appMusic\appMusic\obj\Debug\appMusic.csproj.CoreCompileInputs.cache
+c:\users\administrateur\source\repos\appMusic\appMusic\obj\Debug\appMusic.exe
+c:\users\administrateur\source\repos\appMusic\appMusic\obj\Debug\appMusic.pdb

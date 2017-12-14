@@ -1,0 +1,7 @@
+C:\Users\Administrateur\source\repos\Tpboucle\Tpboucle\bin\Debug\Tpboucle.exe.config
+C:\Users\Administrateur\source\repos\Tpboucle\Tpboucle\bin\Debug\Tpboucle.exe
+C:\Users\Administrateur\source\repos\Tpboucle\Tpboucle\bin\Debug\Tpboucle.pdb
+C:\Users\Administrateur\source\repos\Tpboucle\Tpboucle\obj\Debug\Tpboucle.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\Tpboucle\Tpboucle\obj\Debug\Tpboucle.exe
+C:\Users\Administrateur\source\repos\Tpboucle\Tpboucle\obj\Debug\Tpboucle.pdb
+C:\Users\Administrateur\source\repos\Tpboucle\Tpboucle\obj\Debug\Tpboucle.csprojResolveAssemblyReference.cache

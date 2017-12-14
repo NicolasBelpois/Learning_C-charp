@@ -1,0 +1,7 @@
+c:\users\administrateur\source\repos\PlusouMoin\PlusouMoin\obj\Debug\PlusouMoin.csprojResolveAssemblyReference.cache
+c:\users\administrateur\source\repos\PlusouMoin\PlusouMoin\obj\Debug\PlusouMoin.csproj.CoreCompileInputs.cache
+c:\users\administrateur\source\repos\PlusouMoin\PlusouMoin\bin\Debug\PlusouMoin.exe.config
+c:\users\administrateur\source\repos\PlusouMoin\PlusouMoin\bin\Debug\PlusouMoin.exe
+c:\users\administrateur\source\repos\PlusouMoin\PlusouMoin\bin\Debug\PlusouMoin.pdb
+c:\users\administrateur\source\repos\PlusouMoin\PlusouMoin\obj\Debug\PlusouMoin.exe
+c:\users\administrateur\source\repos\PlusouMoin\PlusouMoin\obj\Debug\PlusouMoin.pdb

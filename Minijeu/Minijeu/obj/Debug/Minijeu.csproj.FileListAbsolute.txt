@@ -1,0 +1,7 @@
+c:\users\administrateur\source\repos\Minijeu\Minijeu\bin\Debug\Minijeu.exe.config
+c:\users\administrateur\source\repos\Minijeu\Minijeu\bin\Debug\Minijeu.exe
+c:\users\administrateur\source\repos\Minijeu\Minijeu\bin\Debug\Minijeu.pdb
+c:\users\administrateur\source\repos\Minijeu\Minijeu\obj\Debug\Minijeu.csprojResolveAssemblyReference.cache
+c:\users\administrateur\source\repos\Minijeu\Minijeu\obj\Debug\Minijeu.csproj.CoreCompileInputs.cache
+c:\users\administrateur\source\repos\Minijeu\Minijeu\obj\Debug\Minijeu.exe
+c:\users\administrateur\source\repos\Minijeu\Minijeu\obj\Debug\Minijeu.pdb
