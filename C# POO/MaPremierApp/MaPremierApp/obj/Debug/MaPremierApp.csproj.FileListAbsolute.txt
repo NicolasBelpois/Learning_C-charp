@@ -1,0 +1,6 @@
+C:\Users\Nico\Documents\Cours\C#\MaPremierApp\MaPremierApp\bin\Debug\MaPremierApp.exe
+C:\Users\Nico\Documents\Cours\C#\MaPremierApp\MaPremierApp\bin\Debug\MaPremierApp.pdb
+C:\Users\Nico\Documents\Cours\C#\MaPremierApp\MaPremierApp\obj\Debug\MaPremierApp.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Documents\Cours\C#\MaPremierApp\MaPremierApp\obj\Debug\MaPremierApp.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Documents\Cours\C#\MaPremierApp\MaPremierApp\obj\Debug\MaPremierApp.exe
+C:\Users\Nico\Documents\Cours\C#\MaPremierApp\MaPremierApp\obj\Debug\MaPremierApp.pdb
