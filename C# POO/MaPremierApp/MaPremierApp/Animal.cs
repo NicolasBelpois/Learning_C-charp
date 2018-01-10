@@ -20,7 +20,7 @@ namespace MaPremierApp
             Console.WriteLine("Je suis " + prenom + " et je respire.");
         }
     }
-    public class Chien
+    public class Chien 
     {
         public string Prenom { get; set; }
 

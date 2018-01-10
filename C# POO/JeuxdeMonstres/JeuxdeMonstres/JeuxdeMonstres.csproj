@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D3390E4C-346D-45DD-8CF6-37A1F3E06D77}</ProjectGuid>
+    <ProjectGuid>{13DD4808-AB92-4A33-B88A-A435FF01C1BE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MaPremierApp</RootNamespace>
-    <AssemblyName>MaPremierApp</AssemblyName>
+    <RootNamespace>JeuxdeMonstres</RootNamespace>
+    <AssemblyName>JeuxdeMonstres</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -39,11 +39,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Animal.cs" />
-    <Compile Include="Animal2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Voiture.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
